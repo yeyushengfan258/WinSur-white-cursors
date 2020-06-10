@@ -14,7 +14,9 @@
    <feGaussianBlur stdDeviation="1.3023422"/>
   </filter>
  </defs>
- <path d="m15.963 7a1.0001 1.0001 0 0 0-0.89648 0.61328l-5.0098 12.002a1.0001 1.0001 0 0 0 1.1172 1.3672l4.8164-0.96289 4.8379 0.96289a1.0001 1.0001 0 0 0 1.1172-1.3691l-5.0332-12.002a1.0001 1.0001 0 0 0-0.94922-0.61133zm0.0293 3.5898 3.3809 8.0625-3.1895-0.63281a1.0001 1.0001 0 0 0-0.39062 0l-3.168 0.63281z" color="#000000" color-rendering="auto" dominant-baseline="auto" filter="url(#filter912)" image-rendering="auto" opacity=".35" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
- <path d="m15.989 7.9988-5.0106 12.002 5.0106-1 5.0331 1z" fill="none" stroke="#151515" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
- <path d="m15.989 7.9988-5.0106 12.002 5.0106-1 5.0331 1z" fill="#fff" fill-rule="evenodd"/>
+ <g transform="translate(-.989 -.9988)">
+  <path d="m15.963 7a1.0001 1.0001 0 0 0-0.89648 0.61328l-5.0098 12.002a1.0001 1.0001 0 0 0 1.1172 1.3672l4.8164-0.96289 4.8379 0.96289a1.0001 1.0001 0 0 0 1.1172-1.3691l-5.0332-12.002a1.0001 1.0001 0 0 0-0.94922-0.61133zm0.0293 3.5898 3.3809 8.0625-3.1895-0.63281a1.0001 1.0001 0 0 0-0.39062 0l-3.168 0.63281z" color="#000000" color-rendering="auto" dominant-baseline="auto" filter="url(#filter912)" image-rendering="auto" opacity=".35" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  <path d="m15.989 7.9988-5.0106 12.002 5.0106-1 5.0331 1z" fill="none" stroke="#151515" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="m15.989 7.9988-5.0106 12.002 5.0106-1 5.0331 1z" fill="#fff" fill-rule="evenodd"/>
+ </g>
 </svg>
