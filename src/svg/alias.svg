@@ -1,38 +1,161 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="32" height="32" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
- <metadata>
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs>
-  <filter id="a-3-3" x="-.12" y="-.12" width="1.24" height="1.24" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.64999976"/>
-  </filter>
-  <filter id="filter879" x="-.14484" y="-.10243" width="1.2897" height="1.2049" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.68281724"/>
-  </filter>
- </defs>
- <g transform="translate(-1.6368 .40678)">
-  <g transform="translate(1.6368 -.40678)">
-   <path d="m6.8609 5.0998a1.0001 1.0001 0 0 0-0.98438 1v14a1.0001 1.0001 0 0 0 1.7617 0.64648l3.6934-4.3477 4.8555 0.01563a1.0001 1.0001 0 0 0 0.71094-1.707l-9.3145-9.3145a1.0001 1.0001 0 0 0-0.72266-0.29297zm1.0156 3.4141 5.8926 5.8926-2.8965-0.0098a1.0001 1.0001 0 0 0-0.76562 0.35352l-2.2305 2.627z" color="#000000" color-rendering="auto" dominant-baseline="auto" filter="url(#filter879)" image-rendering="auto" opacity=".35" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
-   <path d="m5.9844 4a1.0001 1.0001 0 0 0-0.98438 1v14a1.0001 1.0001 0 0 0 1.7617 0.64648l3.6934-4.3477 4.8555 0.01563a1.0001 1.0001 0 0 0 0.71094-1.707l-9.3145-9.3145a1.0001 1.0001 0 0 0-0.72266-0.29297zm1.0156 3.4141 5.8926 5.8926-2.8965-0.0098a1.0001 1.0001 0 0 0-0.76562 0.35352l-2.2305 2.627z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
-   <path d="m6 5v14l3.9929-4.703 5.3216 0.01749z" fill="#fff" fill-rule="evenodd"/>
-   <rect x="-.93555" y="1" width="24" height="24" fill="none" opacity=".2"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="alias.svg"
+   id="svg40"
+   viewBox="0 0 32 32"
+   version="1.1"
+   height="32"
+   width="32">
+  <sodipodi:namedview
+     inkscape:current-layer="svg40"
+     inkscape:window-maximized="1"
+     inkscape:window-y="36"
+     inkscape:window-x="0"
+     inkscape:cy="9.6349725"
+     inkscape:cx="-11.266442"
+     inkscape:zoom="8.4300387"
+     showgrid="false"
+     id="namedview42"
+     inkscape:window-height="932"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10">
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.24"
+       width="1.24"
+       y="-.12"
+       x="-.12"
+       id="a-3-3">
+      <feGaussianBlur
+         id="feGaussianBlur4"
+         stdDeviation="0.64999976" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.2049"
+       width="1.2897"
+       y="-.10243"
+       x="-.14484"
+       id="filter879">
+      <feGaussianBlur
+         id="feGaussianBlur7"
+         stdDeviation="0.68281724" />
+    </filter>
+  </defs>
+  <g
+     id="g20">
+    <path
+       d="m 6.8609,5.0998 a 1.0001,1.0001 0 0 0 -0.98438,1 v 14 a 1.0001,1.0001 0 0 0 1.7617,0.64648 l 3.6934,-4.3477 4.8555,0.01563 a 1.0001,1.0001 0 0 0 0.71094,-1.707 L 7.58356,5.39271 A 1.0001,1.0001 0 0 0 6.8609,5.09974 Z m 1.0156,3.4141 5.8926,5.8926 -2.8965,-0.0098 a 1.0001,1.0001 0 0 0 -0.76562,0.35352 l -2.2305,2.627 z"
+       color="#000000"
+       color-rendering="auto"
+       dominant-baseline="auto"
+       filter="url(#filter879)"
+       image-rendering="auto"
+       opacity="0.35"
+       shape-rendering="auto"
+       solid-color="#000000"
+       style="font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal"
+       id="path12" />
+    <path
+       d="M 5.9844,4 A 1.0001,1.0001 0 0 0 5.00002,5 v 14 a 1.0001,1.0001 0 0 0 1.7617,0.64648 l 3.6934,-4.3477 4.8555,0.01563 a 1.0001,1.0001 0 0 0 0.71094,-1.707 L 6.70706,4.29291 A 1.0001,1.0001 0 0 0 5.9844,3.99994 Z M 7,7.4141 12.8926,13.3067 9.9961,13.2969 a 1.0001,1.0001 0 0 0 -0.76562,0.35352 l -2.2305,2.627 z"
+       color="#000000"
+       color-rendering="auto"
+       dominant-baseline="auto"
+       image-rendering="auto"
+       shape-rendering="auto"
+       solid-color="#000000"
+       style="font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal"
+       id="path14" />
+    <path
+       d="m 6,5 v 14 l 3.9929,-4.703 5.3216,0.01749 z"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path16" />
+    <rect
+       x="-0.93554997"
+       y="1"
+       width="24"
+       height="24"
+       fill="none"
+       opacity="0.2"
+       id="rect18" />
   </g>
-  <g transform="translate(1.4402 .88136)">
-   <circle cx="14.845" cy="22.989" r="6.5" filter="url(#a-3-3)" opacity=".25"/>
-   <circle cx="14.845" cy="22.989" r="6.5" fill="#fff"/>
-   <path d="m14.282 17.498c-2.7734 0.2815-4.9375 2.6503-4.9375 5.4958 0 3.0353 2.4624 5.4958 5.5 5.4958s5.5-2.4605 5.5-5.4958-2.4624-5.4958-5.5-5.4958c-0.18985 0-0.37761-0.019-0.5625 0z" fill="#3296ff"/>
-   <g transform="translate(-25.655 .98888)" fill="#fff" fill-rule="evenodd">
-    <rect x="36" y="21.5" width="8" height="1" ry="0" style="paint-order:stroke fill markers"/>
-    <rect transform="matrix(.70711 -.70711 -.70711 -.70711 0 0)" x="11.263" y="-47.376" width="5" height=".99999" ry="0" style="paint-order:stroke fill markers"/>
-    <rect transform="rotate(45)" x="42.376" y="-16.263" width="5" height=".99999" ry="0" style="paint-order:stroke fill markers"/>
-   </g>
+  <circle
+     id="circle22"
+     opacity="0.25"
+     filter="url(#a-3-3)"
+     r="6.5"
+     cy="24.27714"
+     cx="14.6484" />
+  <circle
+     r="6.5"
+     cy="24.27714"
+     cx="14.6484"
+     id="path947"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.76497;stroke-linecap:round" />
+  <path
+     id="path26"
+     fill="#3296ff"
+     d="m 14.0854,18.78614 c -2.7734,0.2815 -4.9375,2.6503 -4.9375,5.4958 0,3.0353 2.4624,5.4958 5.5,5.4958 3.0376,0 5.5,-2.4605 5.5,-5.4958 0,-3.0353 -2.4624,-5.4958 -5.5,-5.4958 -0.18985,0 -0.37761,-0.019 -0.5625,0 z" />
+  <g
+     id="g34"
+     fill-rule="evenodd"
+     fill="#ffffff"
+     transform="translate(-25.8516,2.27702)">
+    <rect
+       id="rect28"
+       style="paint-order:stroke fill markers"
+       ry="0"
+       height="1"
+       width="8"
+       y="21.5"
+       x="36" />
+    <rect
+       id="rect30"
+       style="paint-order:stroke fill markers"
+       ry="0"
+       height="0.99998999"
+       width="5"
+       y="-47.375999"
+       x="11.263"
+       transform="matrix(0.70711,-0.70711,-0.70711,-0.70711,0,0)" />
+    <rect
+       id="rect32"
+       style="paint-order:stroke fill markers"
+       ry="0"
+       height="0.99998999"
+       width="5"
+       y="-16.263"
+       x="42.375999"
+       transform="rotate(45)" />
   </g>
- </g>
 </svg>

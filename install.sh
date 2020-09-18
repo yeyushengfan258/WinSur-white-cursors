@@ -10,11 +10,11 @@ else
   DEST_DIR="$HOME/.local/share/icons"
 fi
 
-if [ -d "$DEST_DIR/WinConceptOS-cursors" ]; then
-  rm -r "$DEST_DIR/WinConceptOS-cursors"
+if [ -d "$DEST_DIR/WinSur-white-cursors" ]; then
+  rm -r "$DEST_DIR/WinSur-white-cursors"
 fi
 
-cp -pr dist $DEST_DIR/WinConceptOS-cursors
+cp -pr dist $DEST_DIR/WinSur-white-cursors
 
 echo "Finished..."
 

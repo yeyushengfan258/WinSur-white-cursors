@@ -61,7 +61,7 @@ function create {
 
 # generate pixmaps from svg source
 SRC=$PWD/src
-THEME="WinConceptOS Cursors"
+THEME="WinSur White Cursors"
 
 create svg
 
